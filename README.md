@@ -1,7 +1,7 @@
 # Nine Men's Morris (Python)
 
 A two-player, command-line version of the classic board game Nine Men's Morris, written in Python.
-Built as part of my university Python coursework (University of Manchester).
+Built as part of my university Python coursework.
 
 ## How to play
 
